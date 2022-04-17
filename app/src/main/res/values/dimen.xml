@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <dimen name="text">12sp</dimen>
 
-    <dimen name="padding">8dp</dimen>
-
+    <dimen name="padding">14dp</dimen>
+    <dimen name="corner_radius">20dp</dimen>
 </resources>
